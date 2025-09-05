@@ -108,14 +108,14 @@ body{
     font-size: 24px;
 }
 
-.chackbox {
-    width: 20px; 
+.checkbox {
+    width: 20px;
     height: 20px;
-    cursor: pointer; 
+    cursor: pointer;
 }
 
 label {
-    font-size: 20px; 
+    font-size: 20px;
 }
 
 .barra {
@@ -132,9 +132,20 @@ label {
 
 .fraca {
     width: 25%;
-    background-color: #E71b32;
+    background-color: #E71B32;
 }
-.parametro-senha__texto {
+
+.media {
+    width: 50%;
+    background-color: #FAF408;
+}
+
+.forte {
+    width: 100%;
+    background-color: #00FF85;
+}
+
+.parametro-senha-textos {
     display: flex;
     justify-content: space-between;
 }
